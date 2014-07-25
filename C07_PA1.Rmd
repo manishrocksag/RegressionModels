@@ -70,7 +70,7 @@ anova(fit1, fit2, fit10) # p-value: 0.2412195    , REJECT carb   from model
 
 ***Additional exploratory data analysis:*** as shown in Fig. 3 of the Appendix, our currently available data suffers from a fundamental flaw. Most of the recorded automatic cars are of big size and horse power, while most of the recored manual cars are of small size and horse power. This fact strongly affects the results of the analysis, because the variablity of the data is fully explained by a relatively simple model, $mpg = f(cyl,wt)$. There is not enough variability in the data to determine which additional predictor variable is required to fully explain which characteristics of a car determine its efficiency. Thus, this study requires to be replicated on a new dataset with information on automatic and manual transmission cars of similar size and horse power, which should have data on all the range of engine powers.
 
-***Reproducible code:*** [https://github.com/jespestana/DS_Specialization_C07_CP1](https://github.com/jespestana/DS_Specialization_C07_CP1https://github.com/jespestana/DS_Specialization_C07_CP1)
+***Reproducible code:*** [https://github.com/manishrocksag/RegressionModels](https://github.com/jespestana/DS_Specialization_C07_CP1https://github.com/jespestana/DS_Specialization_C07_CP1)
 
 # Conclusions
 
